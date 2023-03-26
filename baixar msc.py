@@ -21,6 +21,6 @@ def download_music():
     print("Download Completo")
 resp =0
 while resp == 0:
-    download_music()#12 997013088
+    download_music()
     resp = int(input('quer baixar mais? sim-0'))
 #E:\
